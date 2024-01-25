@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://dagmfre-seid-7fcx.onrender.com/](https://dagmfre-seid-7fcx.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://dagmfre-seid-7fcx.onrender.com/](https://dagmfre-seid.vercel.app)
 
 - 💬 Ask me about **React, Node.js and MongoDB**
 

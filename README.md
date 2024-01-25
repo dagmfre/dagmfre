@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **A construction - Tech compony Web-app**
 
-- 🌱 I’m currently learning **Tailwind css**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://dagmfre-seid-7fcx.onrender.com/](https://dagmfre-seid-7fcx.onrender.com/)
 

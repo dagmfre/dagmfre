@@ -10,13 +10,11 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://dagmfre-seid-7fcx.onrender.com/](https://dagmfre-seid.vercel.app)
+- 👨‍💻 All of my projects are available at [https://dagmfre-seid.vercel.app/](https://dagmfre-seid.vercel.app/)]
 
 - 💬 Ask me about **React, Node.js and MongoDB**
 
 - 📫 How to reach me **dagmfre@gmail.com**
-
-- ⚡ Fun fact **I take my coffee so seriously**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

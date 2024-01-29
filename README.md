@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dagmfre Seid</h1>
+<h1 line-height="1.5" align="center">Hi 👋, I'm Dagmfre Seid</h1>
 <h4 align="center">I first heard about programming when my uncle told me about how the internet and the web
 work with coding. However, the real time I discovered it as a passion and joy was in
 highschool during an IT class, where we built a personal webpage using html and css. Since

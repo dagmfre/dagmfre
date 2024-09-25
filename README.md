@@ -5,7 +5,7 @@ highschool during an IT class, where we built a personal webpage using html and 
 then, my fascination for programming has grown, and I decided to teach myself. Now,
 having completed the no. 1 top-rated full-stack web development Udemy course and with several real-world projects
 under my belt, I'm excited for a full-time career in Front-end Development.</h4>
-<img align="left" alt="coding_gif" width="400" src="[https://drive.google.com/file/d/1_tDTiCxaMJ2C2UjrKGpZ-af0HI4fHBRP/view?usp=drive_link](https://drive.google.com/u/0/drive-viewer/AKGpihbd2rRBV8_2CJYxsvBOyyK_o5wZ4MZZHtLw5b_uJ53Xs0SFXkkg-tGEjnmTY-dtikSBvimqhK4ulYeLrg_IRzDknWq3_wMUNA=s2560)">
+<img align="left" alt="coding_gif" width="400" src="https://drive.google.com/u/0/drive-viewer/AKGpihbd2rRBV8_2CJYxsvBOyyK_o5wZ4MZZHtLw5b_uJ53Xs0SFXkkg-tGEjnmTY-dtikSBvimqhK4ulYeLrg_IRzDknWq3_wMUNA=s2560">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagmfre&label=Profile%20views&color=0e75b6&style=flat" alt="dagmfre" /> </p>
 

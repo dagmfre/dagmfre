@@ -30,7 +30,7 @@ under my belt, I'm excited for a full-time career in Front-end Development.</h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p style="display: flex; gap: 1rem; margin: 0 1rem;" align="left">
+<p style="display: flex; gap: '1rem' margin='0 1rem'" align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> </a>
